@@ -1,6 +1,6 @@
 ### Hi there, I'm Hashaam Zahid! 👋
-[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&width=400&height=200)](https://github.com/hashaam-zahid/github-readme-stats)
-[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/hashaam-zahid/github-readme-stats)
+[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&width=200&height=200)](https://github.com/hashaam-zahid/github-readme-stats)
+[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&show_icons=true&theme=dark&include_all_commits=true&count_private=true&width=200&height=200)](https://github.com/hashaam-zahid/github-readme-stats)
 
 
 
