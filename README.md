@@ -4,7 +4,7 @@
 
 
 
- I'm a tech enthusiast passionate about PHP, Laravel, C++, TensorFlow, and Machine Learning. Currently diving deeper into Python and exploring its applications in various domains.
+I'm a tech enthusiast passionate about PHP, Laravel, C++, TensorFlow, and Machine Learning. Currently diving deeper into Python and exploring its applications in various domains.
 
 I'm interested in software development, machine learning, artificial intelligence, and creating innovative solutions.
 
@@ -29,4 +29,4 @@ You can contact me at: hashaamzahid3@gmail.com
   <img src="https://miro.medium.com/v2/resize:fit:700/1*IYCifTCCR2ah-79u94Z3wg.png" alt="cs50" width="40" height="40"/>
 </p>
 
-Let's connect and create something amazing together! 😊
+Let's connect and create something amazing together! 
