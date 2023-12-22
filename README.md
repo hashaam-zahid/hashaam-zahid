@@ -1,5 +1,9 @@
 ### Hi there, I'm Hashaam Zahid! 👋
 
+[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid)](https://github.com/hashaam-zahid/github-readme-stats)
+[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/hashaam-zahid/github-readme-stats)
+
+
 🌱 I'm a tech enthusiast passionate about PHP, Laravel, C++, TensorFlow, and Machine Learning. Currently diving deeper into Python and exploring its applications in various domains.
 
 👀 I'm interested in software development, machine learning, artificial intelligence, and creating innovative solutions.
