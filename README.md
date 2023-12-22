@@ -1,5 +1,5 @@
-### Hi there, I'm Hashaam Zahid! 👋
-[![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&card_width=200)](https://github.com/hashaam-zahid/github-readme-stats)
+### Hi there, I'm Hashaam Zahid! 
+
 [![Hashaam Zahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=hashaam-zahid&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=200)](https://github.com/hashaam-zahid/github-readme-stats)
 
 
